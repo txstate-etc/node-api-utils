@@ -1,0 +1,26 @@
+{
+  "name": "node-api-utils",
+  "version": "1.0.0",
+  "description": "Utility classes to make it quicker to spin up an API with our team's conventions",
+  "main": "index.js",
+  "private": true,
+  "dependencies": {    
+    "express": "~4",
+    "express-async-errors": "~3",
+    "mongoose": "~5",
+    "morgan": "~1"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/txstate-etc/node-api-utils.git"
+  },
+  "author": "Nick Wing",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/txstate-etc/node-api-utils/issues"
+  },
+  "homepage": "https://github.com/txstate-etc/node-api-utils#readme"
+}
