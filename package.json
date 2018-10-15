@@ -1,14 +1,16 @@
 {
   "name": "node-api-utils",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Utility classes to make it quicker to spin up an API with our team's conventions",
   "main": "index.js",
   "private": true,
-  "dependencies": {    
+  "dependencies": {
     "express": "~4",
     "express-async-errors": "~3",
     "mongoose": "~5",
-    "morgan": "~1"
+    "morgan": "~1",
+    "yamljs": ">=0.3.0",
+    "swagger-ui-express": "~4"
   },
   "scripts": {
     "test": "mocha"
