@@ -1,6 +1,6 @@
 {
   "name": "node-api-utils",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Utility classes to make it quicker to spin up an API with our team's conventions",
   "main": "index.js",
   "private": true,
