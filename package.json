@@ -1,6 +1,6 @@
 {
   "name": "node-api-utils",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "description": "Utility classes to make it quicker to spin up an API with our team's conventions",
   "main": "index.js",
   "private": true,
@@ -10,7 +10,8 @@
     "mongoose": "^5.3.8",
     "morgan": "~1",
     "yamljs": ">=0.3.0",
-    "swagger-ui-express": "~4"
+    "swagger-ui-express": "~4",
+    "glob": "^7.1.3"
   },
   "scripts": {
     "test": "mocha"
