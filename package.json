@@ -1,6 +1,6 @@
 {
   "name": "txstate-node-utils",
-  "version": "2.6.3",
+  "version": "2.7.1",
   "description": "Utility classes to make it quicker to spin up an API with our team's conventions",
   "main": "index.js",
   "dependencies": {
@@ -11,6 +11,7 @@
     "mongoose": "^5.3.8",
     "morgan": "^1.9.1",
     "mysql2": "^1.6.5",
+    "nodemailer": "^6.2.1",
     "swagger-ui-express": "~4",
     "yamljs": ">=0.3.0"
   },
