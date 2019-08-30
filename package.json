@@ -1,6 +1,6 @@
 {
   "name": "txstate-node-utils",
-  "version": "2.8.15",
+  "version": "2.8.16",
   "description": "Utility classes to make it quicker to spin up an API with our team's conventions",
   "main": "index.js",
   "dependencies": {
