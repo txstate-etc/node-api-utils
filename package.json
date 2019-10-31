@@ -17,6 +17,9 @@
     "swagger-ui-express": "~4",
     "yamljs": ">=0.3.0"
   },
+  "files": [
+    "lib/**/*.js"
+  ],
   "scripts": {
     "test": "mocha"
   },
