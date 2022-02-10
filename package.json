@@ -4,7 +4,7 @@
   "description": "Utility classes to make it quicker to spin up an API with our team's conventions",
   "main": "index.js",
   "dependencies": {
-    "dot-prop": ">=4.2.0",
+    "dot-prop": "^6",
     "express": "^4.16.4",
     "express-async-errors": "~3",
     "glob": "^7.1.3",
